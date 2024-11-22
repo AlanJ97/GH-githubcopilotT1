@@ -1,5 +1,6 @@
 import math
-
+def exponentiate(base, exponent):
+    return base ** exponent
 def calculator():
     print("Simple Calculator")
     print("Type 'quit' to exit\n")
